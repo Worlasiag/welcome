@@ -58,6 +58,7 @@ blockquote{
     align-items: center;
     font-size: 75%;
     font-weight: bold;
+Heigg
     }
     
 blockquote{
@@ -88,6 +89,8 @@ blockquote{
     align-items: center;
     font-size: 80%;
     font-weight: bold;
+    height:100vh;
+    overflow: hidden;
     }
     
 blockquote{
